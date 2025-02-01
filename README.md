@@ -1,5 +1,24 @@
-# **<img src="https://github.com/iamvishalrathi/Voyage-Vista-Project/blob/main/public/assets/logo.png" alt="Sample Image" width="25"/> VoyageVista App**
-Welcome to **VoyageVista** !
+<p align="center">
+  <img src="https://github.com/iamvishalrathi/Voyage-Vista-Project/blob/main/public/assets/logo.png" width="50" alt="logo">
+</p>
+<p align="center">
+    <h1 align="center">VoyageVista</h1>
+</p>
+<p align="center">
+    <em><code><a href="https://voyage-vista-project.onrender.com/listings" target="_blank" >❯ Live</a></code></em>
+</p>
+<p align="center">
+	<img src="https://img.shields.io/github/license/iamvishalrathi/SharePrompt?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
+	<img src="https://img.shields.io/github/last-commit/iamvishalrathi/SharePrompt?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+	<img src="https://img.shields.io/github/languages/top/iamvishalrathi/SharePrompt?style=default&color=0080ff" alt="repo-top-language">
+	<img src="https://img.shields.io/github/languages/count/iamvishalrathi/SharePrompt?style=default&color=0080ff" alt="repo-language-count">
+</p>
+<p align="center"><!-- default option, no dependency badges. -->
+</p>
+<p align="center">
+	<!-- default option, no dependency badges. -->
+</p>
+<br>
 
 This web application is your go-to platform for finding and listing hotels and motels across various locations. Whether you're searching for accommodation or looking to add your own hotel listings, VoyageVista makes it easy and efficient. Below, you'll find everything you need to know to set up and use the app.
 
